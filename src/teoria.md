@@ -12,7 +12,7 @@ Angular 2 en adelante...
 
 La curva de aprendizaje es muy alta, pasada la curva es igual...
 
-### TypeScript
+# TypeScript
 TypeScript es un super set de JavaScript, extiende caracteristicas y suma nuevas.
 Microsoft le da soporte a TypeScript
 Se diferencian por la extension .js y .ts
